@@ -11,7 +11,7 @@
 }
 .product__list .main__page {
   text-decoration: none;
-  color: #5d675b;
+  color: #5D675B;
   position: relative;
 }
 .product__list .main__page:before {
@@ -21,7 +21,7 @@
   left: 0;
   width: 100%;
   height: 1px;
-  background-color: #5d675b;
+  background-color: #5D675B;
   opacity: 0;
   transition: opacity 0.5s, transform 0.5s;
   transform: scaleX(0);
@@ -38,7 +38,7 @@
 
 .product__title {
   font-weight: 700;
-  color: #446df6;
+  color: #446DF6;
   font-size: 32px;
 }
 
@@ -56,9 +56,9 @@
 }
 
 .card__block {
-  background-color: #fbfef9;
+  background-color: #FBFEF9;
   border-radius: 12px;
-  box-shadow: 0px 3px 20px 0px #5d675b;
+  box-shadow: 0px 3px 20px 0px #5D675B;
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -75,7 +75,7 @@
 }
 .card__block .card__id {
   font-size: 14px;
-  color: #5d675b;
+  color: #5D675B;
 }
 .card__block .tech {
   display: flex;
@@ -87,7 +87,7 @@
 }
 .card__block .tech .card__update {
   text-decoration: none;
-  color: #446df6;
+  color: #446DF6;
 }
 
 /*# sourceMappingURL=style.css.map */
